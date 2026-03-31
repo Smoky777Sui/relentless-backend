@@ -1,0 +1,10 @@
+[
+  {
+    "id": "1",
+    "username": "admin",
+    "email": "admin@relentlesspodcast.com",
+    "password": "$2a$10$4l.C2bfvAEolmc4UJ.uLoeo7GapeHkvCfrllIqLIf571K/NWgllii",
+    "role": "admin",
+    "createdAt": "2026-03-31T17:07:46.944Z"
+  }
+]

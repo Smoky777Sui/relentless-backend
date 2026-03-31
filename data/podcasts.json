@@ -1,0 +1,26 @@
+[
+  {
+    "id": "1",
+    "title": "From Warehouse to 250+ Installs: The Story of Jeff Pilla",
+    "description": "At just 26 years old, Jeff Pilla's journey is a masterclass in grit, sales psychology, and the power of refusing to settle. From warehouse work to becoming a solar industry powerhouse with 250+ installs in a single year.",
+    "youtubeUrl": "https://youtu.be/sMpRcau80V4?si=GrtZcWg5xgrQrXuU",
+    "youtubeId": "sMpRcau80V4",
+    "thumbnail": "https://img.youtube.com/vi/sMpRcau80V4/maxresdefault.jpg",
+    "guest": "Jeff Pilla",
+    "featured": true,
+    "publishedAt": "2024-01-15T00:00:00.000Z",
+    "createdAt": "2026-03-31T17:07:46.721Z"
+  },
+  {
+    "id": "2",
+    "title": "The Relentless Podcast: Entrepreneur Talk",
+    "description": "Raw conversations on business, growth, and building something that lasts. No fluff. No ego. Just lessons that work from builders who've lived it.",
+    "youtubeUrl": "https://youtu.be/sMpRcau80V4?si=GrtZcWg5xgrQrXuU",
+    "youtubeId": "sMpRcau80V4",
+    "thumbnail": "https://img.youtube.com/vi/sMpRcau80V4/maxresdefault.jpg",
+    "guest": "Sam DeMaio",
+    "featured": false,
+    "publishedAt": "2024-02-01T00:00:00.000Z",
+    "createdAt": "2026-03-31T17:07:46.721Z"
+  }
+]
