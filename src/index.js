@@ -4,6 +4,7 @@ const cors = require('cors');
 const helmet = require('helmet');
 const path = require('path');
 const rateLimit = require('express-rate-limit');
+const { connectDB } = require('./models/store');
 
 const authRoutes = require('./routes/auth');
 const podcastRoutes = require('./routes/podcasts');
@@ -13,6 +14,9 @@ const uploadRoutes = require('./routes/upload');
 
 const app = express();
 const PORT = process.env.PORT || 5000;
+
+// Connect to MongoDB
+connectDB().then(() => console.log('✅ MongoDB connected')).catch(err => console.error('❌ MongoDB error:', err));
 
 // Security middleware
 app.use(helmet({ crossOriginResourcePolicy: { policy: 'cross-origin' } }));
